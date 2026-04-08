@@ -4,9 +4,9 @@
 <img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ2Z211cmFuNnh4dDBhMzR2MW0ydTZqeWNhemFtYmNrZnBjeDB4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11OlEyIaGC6Jsk/giphy.gif" alt="Coding GIF" />
 </div>
 
-Hi, I'm Gustavo! 👋
+**Hi, I'm Gustavo!** 👋
 
-I am a Software Engineer with a formal background in Systems Engineering, passionate about building robust, scalable applications and solving complex real-world problems. I am currently developing a full-stack admissions system for my internship, where I focus on exploring new architectural patterns and creating efficient developer workflows. I love the entire lifecycle of software development and am constantly looking for new ways to optimize code and level up my problem-solving skills. 
+I am a **`Software Engineer`** with a formal background in Systems Engineering, passionate about building robust, scalable applications and solving complex real-world problems. I am currently developing a full-stack admissions system for my internship, where I focus on exploring new architectural patterns and creating efficient developer workflows. I love the entire lifecycle of software development and am constantly looking for new ways to optimize code and level up my problem-solving skills. 
 
 When I'm not deep into code or developer docs, you can usually find me catching up on a good book, watching anime, or relaxing with movies and TV shows.
 
